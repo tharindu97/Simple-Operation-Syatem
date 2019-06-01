@@ -1,0 +1,1 @@
+"C:\Users\Tharindu\AppData\Local\bin\NASM\nasm.exe" -f bin "C:\Users\Tharindu\Desktop\OS\hello_world.asm" -o "C:\Users\Tharindu\Desktop\OS\hello_world.iso
